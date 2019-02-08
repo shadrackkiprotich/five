@@ -1,0 +1,11 @@
+C:\Users\Shadrack myles\source\repos\five\five\bin\Debug\netcoreapp2.1\five.deps.json
+C:\Users\Shadrack myles\source\repos\five\five\bin\Debug\netcoreapp2.1\five.runtimeconfig.json
+C:\Users\Shadrack myles\source\repos\five\five\bin\Debug\netcoreapp2.1\five.runtimeconfig.dev.json
+C:\Users\Shadrack myles\source\repos\five\five\bin\Debug\netcoreapp2.1\five.dll
+C:\Users\Shadrack myles\source\repos\five\five\bin\Debug\netcoreapp2.1\five.pdb
+C:\Users\Shadrack myles\source\repos\five\five\obj\Debug\netcoreapp2.1\five.csprojAssemblyReference.cache
+C:\Users\Shadrack myles\source\repos\five\five\obj\Debug\netcoreapp2.1\five.csproj.CoreCompileInputs.cache
+C:\Users\Shadrack myles\source\repos\five\five\obj\Debug\netcoreapp2.1\five.AssemblyInfoInputs.cache
+C:\Users\Shadrack myles\source\repos\five\five\obj\Debug\netcoreapp2.1\five.AssemblyInfo.cs
+C:\Users\Shadrack myles\source\repos\five\five\obj\Debug\netcoreapp2.1\five.dll
+C:\Users\Shadrack myles\source\repos\five\five\obj\Debug\netcoreapp2.1\five.pdb
